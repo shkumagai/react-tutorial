@@ -1,0 +1,9 @@
+{
+  "insize": 2,
+  "formatArray": "default",
+  "formatObject": "default",
+  "methodchain": "chain",
+  "spaceclose": true,
+  "ternaryline": true,
+  "wrap": 120
+}
