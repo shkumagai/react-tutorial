@@ -1,3 +1,9 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.js": "es-beautifier"
+    },
+    "[es-beautifier]": {
+        "useEslintrc": true
+    }
 }
